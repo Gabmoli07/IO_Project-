@@ -1,0 +1,18 @@
+U:\Languages\IO_Project\IO_Project\bin\Debug\IO_Project.exe.config
+U:\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.csprojResolveAssemblyReference.cache
+U:\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.Form1.resources
+U:\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.Properties.Resources.resources
+U:\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.csproj.GenerateResource.Cache
+U:\Languages\IO_Project\IO_Project\bin\Debug\IO_Project.exe
+U:\Languages\IO_Project\IO_Project\bin\Debug\IO_Project.pdb
+U:\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.exe
+U:\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.pdb
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\bin\Debug\IO_Project.exe.config
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\bin\Debug\IO_Project.exe
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\bin\Debug\IO_Project.pdb
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.csprojAssemblyReference.cache
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.Form1.resources
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.Properties.Resources.resources
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.csproj.GenerateResource.cache
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.exe
+D:\ASA COLLEGE (ALL SEMESTER)\Languages\IO_Project\IO_Project\obj\Debug\IO_Project.pdb
